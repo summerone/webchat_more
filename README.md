@@ -1,5 +1,14 @@
-> 这是一个PC端单独项目，请执行以下命令将其克隆为一个新项目。请勿合并分支 
+> 这是一个本地写的多人聊天  依赖nodeJs搭建了虚拟的服务器
 
->git clone -b pc http://git.svn.asia/CNCT_SG/taskManage_web.git taskManage_pc
- 
+# 首先要装nodeJS
+http://nodejs.cn/
+
+# 运用nodeJs安装依赖的servers  最好使用淘宝镜像 安装速度快很多
+npm install
+
+
+# 使用本地跑起来  
+npm start
+
+
  
